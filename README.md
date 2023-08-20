@@ -1,7 +1,7 @@
 # Drum-kit
-# Drum Kit Project
 
 This interactive application allows you to unleash your inner drummer by simulating a virtual drum set. Simply press the corresponding keys on your keyboard, and watch as each drum element responds with realistic sound and animation.
+
 
 ![Drum Kit Preview](images/DrumKitSS.png)
 
