@@ -25,7 +25,6 @@ https://kunalbhat55.github.io/Drum-kit/
 - Simulates a virtual drum set with interactive elements.
 - Realistic sound and animation for each drum element.
 - Easy-to-use keyboard mapping for triggering drum sounds.
-- [Add any additional features here]
 
 ## Getting Started
 
